@@ -6,9 +6,14 @@ I care about performance, clean UI, and security 🔐 (yes, I’ve wrestled the 
 
 I also speak design 🧠 — thanks to a design internship where I revamped UIs, crafted product pages, and worked hand-in-hand with marketing teams.
 
-## 🌐 Socials:
+## 🌐 My Profiles:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/div.yanshh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansh2505) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dihvyansh)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/div.yanshh_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansh2505) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dihvyansh) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/duskydiv/)
+
+
 
 # 💻 Tech Stack:
 
